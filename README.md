@@ -31,6 +31,6 @@ Data byla čerpána z veřejně dostupných datových sad platformy Engeto:
 5. Není prokázáno, žádný jasný vliv
 
 ## Struktura repozitáře
-- `data/final_tables/`: SQL skripty pro vytvoření finálních tabulek
-- `sql_queries/`: SQL dotazy k výzkumným otázkám
+- `final_tables`: SQL skripty pro vytvoření finálních tabulek
+- `sql_queries`: SQL dotazy k výzkumným otázkám
 - `README.md`: Tento soubor
