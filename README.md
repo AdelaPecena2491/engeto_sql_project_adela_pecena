@@ -2,14 +2,6 @@
 Adéla Pečená  
 Studentka kurzu **Datová analytika** na platformě **Engeto Academy**, 2025.
 
-### ❓ Proč jsou v repozitáři i `VIEW` soubory?
-Součástí zadání bylo vytvořit přehledné datové pohledy (view), které slouží jako mezikrok k vytvoření finální primární tabulky. `view_no1_payroll` a `view_no2_price` obsahují agregovaná data:
-
-- `view_no1_payroll` – průměrné mzdy podle odvětví a let
-- `view_no2_price` – průměrné roční ceny potravin
-
-Obě view jsou následně sloučeny do `t_adela_pecena_project_SQL_primary_final`, která slouží jako hlavní datový podklad pro odpovědi na otázky projektu.
-
 ## 🗃️ Popis dat
 Data byla čerpána z veřejně dostupných datových sad platformy Engeto:
 
@@ -29,6 +21,14 @@ Data byla čerpána z veřejně dostupných datových sad platformy Engeto:
 3. Která kategorie potravin zdražuje nejpomaleji?
 4. Existuje rok, kdy byl nárůst cen výrazně vyšší než nárůst mezd (více než 10 %)?
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin?
+
+## Odpovědi
+1. Většinou ANO, kromě výkyvů např. 2013
+2.  - Rok 2006: ~1026 l mléka, ~919 kg chleba
+    - Rok 2018: ~1285 l mléka, ~1051 kg chleba
+3. Žluté banány
+4. Ve zkratce, ne
+5. Není prokázáno, žádný jasný vliv
 
 ## Struktura repozitáře
 - `data/final_tables/`: SQL skripty pro vytvoření finálních tabulek
