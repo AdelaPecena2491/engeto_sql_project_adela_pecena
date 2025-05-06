@@ -22,7 +22,7 @@ Data byla čerpána z veřejně dostupných datových sad platformy Engeto:
 4. Existuje rok, kdy byl nárůst cen výrazně vyšší než nárůst mezd (více než 10 %)?
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin?
 
-## Odpovědi
+## 📝 Odpovědi
 1. Většinou ANO, kromě výkyvů např. 2013
 2.  - Rok 2006: ~1026 l mléka, ~919 kg chleba
     - Rok 2018: ~1285 l mléka, ~1051 kg chleba
